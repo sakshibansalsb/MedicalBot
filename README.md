@@ -25,6 +25,7 @@ HealthCheck Medical Bot is built using a Large Language Model (LLM) integrated w
 ## Architecture
 
 ![ArchitectureDiagram](https://github.com/user-attachments/assets/97e5b52d-d019-4316-a60e-594c7445ff36)
+<img src="https://github.com/user-attachments/assets/97e5b52d-d019-4316-a60e-594c7445ff36)" alt="HealthCheck Bot Interface" width="400" height="300">
 
 The system is composed of the following components:
 

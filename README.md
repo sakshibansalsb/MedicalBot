@@ -23,9 +23,10 @@ HealthCheck Medical Bot is built using a Large Language Model (LLM) integrated w
 - Provide a user-friendly chat interface with a background image.
 
 ## Architecture
+![diagram-export-8-27-2024-1_56_55-PM]()
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/97e5b52d-d019-4316-a60e-594c7445ff36" alt="ArchitectureDiagram(" width="400" height="700">
+  <img src="https://github.com/user-attachments/assets/b7f229c5-56d5-4ac2-ad13-25f800dc48ee" alt="ArchitectureDiagram" width="400" height="700">
 </div>
 
 

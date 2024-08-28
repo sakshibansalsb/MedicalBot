@@ -49,6 +49,9 @@ greeting_message = "Hello! Welcome to HealthCheck Bot. \n 🤖 I'm here to help 
 
 # Define communication function
 def bot(message, history):
+    if message.lower() == "end":
+        response = "Thank you for using HealthCheck Bot. Stay healthy!"
+        return response
     # If this is the first interaction, send the greeting message
     if not history:
         response = greeting_message
